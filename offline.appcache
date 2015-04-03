@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1426899747
+#1428089698
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -30,6 +30,10 @@ images/sprite21-sheet0.png
 images/sprite22-sheet0.png
 images/sprite23-sheet0.png
 images/sprite24-sheet0.png
+images/tiledbackground.png
+images/sprite25-sheet0.png
+images/sprite26-sheet0.png
+images/sprite27-sheet0.png
 media/hitmarker.m4a
 media/hitmarker.ogg
 media/swamp.m4a
@@ -42,8 +46,14 @@ media/allstar.m4a
 media/allstar.ogg
 media/where.m4a
 media/where.ogg
-media/sad%20violin.m4a
-media/sad%20violin.ogg
+media/nice.m4a
+media/nice.ogg
+media/damn.m4a
+media/damn.ogg
+media/xfiles.m4a
+media/xfiles.ogg
+media/absoluteshit.m4a
+media/absoluteshit.ogg
 icon-16.png
 icon-32.png
 icon-114.png
